@@ -1,9 +1,8 @@
 namespace Software2KnowledgeCheck1;
 
-internal class Construction
+internal class Construction : City
 {
-    public List<Building> Buildings { get; } = new List<Building>();
-    
+
     public void CreateApartment<T>(T building) where T: Building
     {
         // Get materials
@@ -12,7 +11,7 @@ internal class Construction
 
         var permitRepo = new ZoningAndPermitRepo();
 
-        var buildingWasMade = ConstructBuilding<Apartment>(materialsNeeded, permitRepo.GetPermit(), permitRepo.ZoningApproves());
+        var buildingWasMade = ConstructBuilding<Building>(materialsNeeded, permitRepo.GetPermit(), permitRepo.ZoningApproves());
 
         if (buildingWasMade)
         {
