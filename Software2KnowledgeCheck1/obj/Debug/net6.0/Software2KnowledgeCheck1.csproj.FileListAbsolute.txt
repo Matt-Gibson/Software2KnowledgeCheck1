@@ -1,0 +1,5 @@
+/Users/matthewgibson/Documents/Code/CodeKy/Software-2-Knowledge-Check-1/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/Software2KnowledgeCheck1.csproj.AssemblyReference.cache
+/Users/matthewgibson/Documents/Code/CodeKy/Software-2-Knowledge-Check-1/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/Software2KnowledgeCheck1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthewgibson/Documents/Code/CodeKy/Software-2-Knowledge-Check-1/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/Software2KnowledgeCheck1.AssemblyInfoInputs.cache
+/Users/matthewgibson/Documents/Code/CodeKy/Software-2-Knowledge-Check-1/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/Software2KnowledgeCheck1.AssemblyInfo.cs
+/Users/matthewgibson/Documents/Code/CodeKy/Software-2-Knowledge-Check-1/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/Software2KnowledgeCheck1.csproj.CoreCompileInputs.cache
